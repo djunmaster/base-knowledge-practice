@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>cn.adam</groupId>
     <artifactId>adam-base-knowledge-practice</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>adam-base-knowledge-practice</name>
     <description>adam-base-knowledge-practice</description>
     <properties>
